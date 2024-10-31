@@ -12,17 +12,21 @@ public class test {
 		System.out.println("Baby");
 
 	}
-	
+
 	public void test() {
-		
-	}
-	
-public void test1() {
-		
+
 	}
 
-public void dev() {
-	
-}
+	public void test1() {
+
+	}
+
+	public void dev() {
+
+	}
+
+	public void zeeshan() {
+
+	}
 
 }
