@@ -12,5 +12,9 @@ public class test {
 		System.out.println("Baby");
 
 	}
+	
+	public void test() {
+		
+	}
 
 }
