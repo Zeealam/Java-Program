@@ -12,7 +12,7 @@ public class TakeInputAndFindDuplicateWords {
 		
 		System.out.println("Statement is: "+str);
 		
-		//str= str.toLowerCase();
+		str= str.toLowerCase();
 		String words[] = str.split(" ");
 		
 		System.out.println("Duplicate words in a given string : ");     

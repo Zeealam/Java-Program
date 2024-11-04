@@ -6,6 +6,9 @@ import java.util.Scanner;
 public class TwoStringAreAnagram {
 
 	// Java Program to determine whether two strings are the anagram
+	//An anagram of a string is another string that contains the same 
+	//characters, only the order of characters can be different. For example, 
+	//“abcd” and “dabc” are an anagram of each other.
 
 	public static void main(String[] args) {
 

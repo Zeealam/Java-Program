@@ -11,6 +11,8 @@ public class CountTheNumberOfCharacter {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the Word: ");
 		String str = sc.nextLine();
+		
+		//String str = "Zeeshan";
 
 		System.out.println("Statement is: " + str);
 		int count = 0;
