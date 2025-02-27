@@ -3,16 +3,15 @@ import java.util.*;
 
 public class TakeInputAndFindDuplicateWords {
 	
-	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int count;
 		System.out.print("Enter the statement- ");  
-		String str= sc.nextLine(); 
+		String str= sc.nextLine();
 		
 		System.out.println("Statement is: "+str);
 		
-		str= str.toLowerCase();
+		//str= str.toLowerCase();
 		String words[] = str.split(" ");
 		
 		System.out.println("Duplicate words in a given string : ");     
