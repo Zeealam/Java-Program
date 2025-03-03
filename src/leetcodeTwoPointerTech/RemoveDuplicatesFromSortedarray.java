@@ -1,7 +1,7 @@
 package leetcodeTwoPointerTech;
 
 public class RemoveDuplicatesFromSortedarray {
-	
+	//https://www.youtube.com/watch?v=oMr9lehS7Us
 	public static int removeDuplicates(int[] nums) {
         int j = 1;
         for (int i = 1; i < nums.length; i++) {
